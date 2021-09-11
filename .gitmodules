@@ -1,0 +1,3 @@
+[submodule "music-app-static/MusicApp.Static"]
+	path = music-app-static/MusicApp.Static
+	url = https://github.com/calvindalenta/MusicApp.Static
